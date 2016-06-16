@@ -1,1 +1,33 @@
-/* add your CSS here */
+.animal-card {
+	font-family: Arial;
+	border: 1px solid #ccc;
+	width: 300px;
+	padding: 15px;
+	box-shadow: 1px 1px 3px 3px #ccc;
+}
+
+.animal-card img {
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin: 0 0 10px 0;
+}
+
+.information {
+	border: 1px solid #ccc;
+	padding: 15px;
+}
+
+.description {
+	font-style: italic;
+}
+
+.title {
+	font-weight: 700;
+	font-style: normal;
+}
+
+.facts {
+	list-style: none;
+	font-style: italic;
+	padding: 0;
+}
